@@ -17,5 +17,7 @@ You can patch once and change the password as many times you want.
 
 This program does not provide a real protection as cracking this is very easy by someone with brains, but it actually protects your browser from your friends and noobs you live with who tries to use your browser.
 
+Program is 64 bit and works with 64 bit browsers only.
+
 ### This program is provided with NO WARRANTY. If you mess up anything using the program, it's your headache.
 
