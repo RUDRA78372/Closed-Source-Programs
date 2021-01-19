@@ -2,7 +2,7 @@
 The job of this program is to protect your chromium based browser using password.
 Works well with chromium, opera gx, whatsapp. Please test for your own browsers too.
 
-![Screenshot](https://github.com/RUDRA78372/Closed-Source-Programs/tree/main/The-Chromium-Protector/cprotect.PNG)
+![Screenshot](./cprotect.PNG)
 
 ## How to use?
 1.Locate your chromium based browser executable
