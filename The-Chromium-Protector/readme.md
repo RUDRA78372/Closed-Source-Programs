@@ -1,8 +1,8 @@
-#The Chromium Protector
+# The Chromium Protector
 The job of this program is to protect your chromium based browser using password.
 Works well with chromium, opera gx, whatsapp. Please test for your own browsers too.
 
-##How to use?
+## How to use?
 1.Locate your chromium based browser executable
 
 2.Hit Patch!
@@ -13,5 +13,9 @@ It is recommended to save your backup file(Usually chrome.exe.bak) to some other
 
 To remove the password protection, simply restore the backup using the program or rename the file yourself and remove the .bak extension.
 
-###This program is provided with NO WARRANTY. If you mess up anything using the program, it's your headache.
+You can patch once and change the password as many times you want.
+
+This program does not provide a real protection as cracking this is very easy by someone with brains, but it actually protects your browser from your friends and noobs you live with who tries to use your browser.
+
+### This program is provided with NO WARRANTY. If you mess up anything using the program, it's your headache.
 
